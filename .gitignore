@@ -1,1 +1,3 @@
-studentLibrary/*
+studentLibrary/*.py
+*.pyc
+!studentLibrary/__init__.py
